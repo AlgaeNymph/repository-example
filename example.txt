@@ -1,3 +1,5 @@
 Hi, this is new text.  I didn't exist before a commit.
 
 Here's another sentence for the file.
+
+And here's the last one.
